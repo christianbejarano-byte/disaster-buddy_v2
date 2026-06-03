@@ -1,0 +1,3227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1541,
+          32.7089
+        ]
+      },
+      "properties": {
+        "id": "sd-001",
+        "name": "Central Library / Downtown San Diego",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "330 Park Blvd, San Diego",
+        "description": "Library and public information hub; confirm emergency hours."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2392,
+          32.8016
+        ]
+      },
+      "properties": {
+        "id": "sd-002",
+        "name": "Pacific Beach Taylor Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "4275 Cass St, San Diego",
+        "description": "Neighborhood library and cooling / information point when activated."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1016,
+          32.7488
+        ]
+      },
+      "properties": {
+        "id": "sd-003",
+        "name": "City Heights / Weingart Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "3795 Fairmount Ave, San Diego",
+        "description": "Library near City Heights community services."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0431,
+          32.5529
+        ]
+      },
+      "properties": {
+        "id": "sd-004",
+        "name": "San Ysidro Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "4235 Beyer Blvd, San Diego",
+        "description": "South Bay public library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0231,
+          32.7678
+        ]
+      },
+      "properties": {
+        "id": "sd-005",
+        "name": "La Mesa Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "8074 Allison Ave, La Mesa",
+        "description": "East County library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0826,
+          33.1232
+        ]
+      },
+      "properties": {
+        "id": "sd-006",
+        "name": "Escondido Public Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "239 S Kalmia St, Escondido",
+        "description": "North County library and information hub."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3795,
+          33.1972
+        ]
+      },
+      "properties": {
+        "id": "sd-007",
+        "name": "Oceanside Civic Center Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "330 N Coast Hwy, Oceanside",
+        "description": "North coastal public library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0806,
+          32.6401
+        ]
+      },
+      "properties": {
+        "id": "sd-008",
+        "name": "Chula Vista Civic Center Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "365 F St, Chula Vista",
+        "description": "South Bay library and community resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2425,
+          33.2002
+        ]
+      },
+      "properties": {
+        "id": "sd-009",
+        "name": "Vista Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "700 Eucalyptus Ave, Vista",
+        "description": "North County public library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2921,
+          33.0468
+        ]
+      },
+      "properties": {
+        "id": "sd-010",
+        "name": "Encinitas Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "540 Cornish Dr, Encinitas",
+        "description": "Coastal library with public information access."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1444,
+          32.7311
+        ]
+      },
+      "properties": {
+        "id": "sd-011",
+        "name": "Balboa Park Activity Center",
+        "county": "San Diego",
+        "category": "shelter",
+        "address": "2145 Park Blvd, San Diego",
+        "description": "Large public facility; check official shelter activation status."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1628,
+          32.7174
+        ]
+      },
+      "properties": {
+        "id": "sd-012",
+        "name": "Golden Hall / Civic Center Area",
+        "county": "San Diego",
+        "category": "shelter",
+        "address": "202 C St, San Diego",
+        "description": "Downtown public facility area used in past emergency response."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0856,
+          32.7097
+        ]
+      },
+      "properties": {
+        "id": "sd-013",
+        "name": "Jackie Robinson YMCA",
+        "county": "San Diego",
+        "category": "shelter",
+        "address": "151 YMCA Way, San Diego",
+        "description": "Community facility and potential resource partner."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0644,
+          32.5705
+        ]
+      },
+      "properties": {
+        "id": "sd-014",
+        "name": "Border View YMCA",
+        "county": "San Diego",
+        "category": "shelter",
+        "address": "3601 Arey Dr, San Diego",
+        "description": "South Bay community facility."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1129,
+          32.7559
+        ]
+      },
+      "properties": {
+        "id": "sd-015",
+        "name": "Copley-Price Family YMCA",
+        "county": "San Diego",
+        "category": "shelter",
+        "address": "4300 El Cajon Blvd, San Diego",
+        "description": "Mid-City community facility and family resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1515,
+          32.8885
+        ]
+      },
+      "properties": {
+        "id": "sd-016",
+        "name": "San Diego Food Bank",
+        "county": "San Diego",
+        "category": "food",
+        "address": "9850 Distribution Ave, San Diego",
+        "description": "Major food assistance warehouse; check distribution partners."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1571,
+          32.8912
+        ]
+      },
+      "properties": {
+        "id": "sd-017",
+        "name": "Feeding San Diego",
+        "county": "San Diego",
+        "category": "food",
+        "address": "9477 Waples St, San Diego",
+        "description": "Countywide food assistance organization."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2494,
+          32.7458
+        ]
+      },
+      "properties": {
+        "id": "sd-018",
+        "name": "People’s Food Co-op Ocean Beach",
+        "county": "San Diego",
+        "category": "food",
+        "address": "4765 Voltaire St, San Diego",
+        "description": "Community food access point in Ocean Beach."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2415,
+          33.2
+        ]
+      },
+      "properties": {
+        "id": "sd-019",
+        "name": "Vista Community Clinic",
+        "county": "San Diego",
+        "category": "medical",
+        "address": "Vista, CA",
+        "description": "Community clinic area; verify exact hours before relying."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1651,
+          32.754
+        ]
+      },
+      "properties": {
+        "id": "sd-020",
+        "name": "UC San Diego Medical Center Hillcrest",
+        "county": "San Diego",
+        "category": "medical",
+        "address": "200 W Arbor Dr, San Diego",
+        "description": "Major hospital / medical center."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0064,
+          32.7803
+        ]
+      },
+      "properties": {
+        "id": "sd-021",
+        "name": "Sharp Grossmont Hospital",
+        "county": "San Diego",
+        "category": "medical",
+        "address": "5555 Grossmont Center Dr, La Mesa",
+        "description": "East County hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.023,
+          32.6189
+        ]
+      },
+      "properties": {
+        "id": "sd-022",
+        "name": "Scripps Mercy Hospital Chula Vista",
+        "county": "San Diego",
+        "category": "medical",
+        "address": "435 H St, Chula Vista",
+        "description": "South Bay hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1204,
+          33.1221
+        ]
+      },
+      "properties": {
+        "id": "sd-023",
+        "name": "Palomar Medical Center Escondido",
+        "county": "San Diego",
+        "category": "medical",
+        "address": "2185 Citracado Pkwy, Escondido",
+        "description": "North County hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2206,
+          32.7937
+        ]
+      },
+      "properties": {
+        "id": "sd-024",
+        "name": "Mission Bay Park",
+        "county": "San Diego",
+        "category": "parks",
+        "address": "Mission Bay, San Diego",
+        "description": "Large open space and potential staging / respite area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2421,
+          32.7548
+        ]
+      },
+      "properties": {
+        "id": "sd-025",
+        "name": "Robb Field Ocean Beach",
+        "county": "San Diego",
+        "category": "parks",
+        "address": "2525 Bacon St, San Diego",
+        "description": "Open field and recreation area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2176,
+          32.8737
+        ]
+      },
+      "properties": {
+        "id": "sd-026",
+        "name": "Nobel Athletic Area",
+        "county": "San Diego",
+        "category": "parks",
+        "address": "8810 Judicial Dr, San Diego",
+        "description": "Large recreation field area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0647,
+          33.0895
+        ]
+      },
+      "properties": {
+        "id": "sd-027",
+        "name": "Kit Carson Park",
+        "county": "San Diego",
+        "category": "parks",
+        "address": "3333 Bear Valley Pkwy, Escondido",
+        "description": "Large park in North County."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0335,
+          32.6064
+        ]
+      },
+      "properties": {
+        "id": "sd-028",
+        "name": "Otay Valley Regional Park",
+        "county": "San Diego",
+        "category": "parks",
+        "address": "Chula Vista, CA",
+        "description": "South County regional open space."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.14,
+          32.83
+        ]
+      },
+      "properties": {
+        "id": "sd-029",
+        "name": "San Diego County OES / Kearny Mesa Area",
+        "county": "San Diego",
+        "category": "shelter",
+        "address": "Kearny Mesa, San Diego",
+        "description": "Emergency operations area; use for situational awareness only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0314,
+          32.7426
+        ]
+      },
+      "properties": {
+        "id": "sd-030",
+        "name": "Lemon Grove Community Center",
+        "county": "San Diego",
+        "category": "shelter",
+        "address": "3146 School Ln, Lemon Grove",
+        "description": "Community facility; verify activation status."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9605,
+          32.8017
+        ]
+      },
+      "properties": {
+        "id": "sd-031",
+        "name": "El Cajon Valley High / Community Area",
+        "county": "San Diego",
+        "category": "shelter",
+        "address": "El Cajon, CA",
+        "description": "East County community area; verify shelters through official alerts."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.039,
+          32.9556
+        ]
+      },
+      "properties": {
+        "id": "sd-032",
+        "name": "Poway Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "13137 Poway Rd, Poway",
+        "description": "Library and community information point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2515,
+          33.3815
+        ]
+      },
+      "properties": {
+        "id": "sd-033",
+        "name": "Fallbrook Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "124 S Mission Rd, Fallbrook",
+        "description": "North inland library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8697,
+          33.0415
+        ]
+      },
+      "properties": {
+        "id": "sd-034",
+        "name": "Ramona Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "1275 Main St, Ramona",
+        "description": "Backcountry library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3748,
+          33.2559
+        ]
+      },
+      "properties": {
+        "id": "sd-035",
+        "name": "Borrego Springs Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "2580 Country Club Rd, Borrego Springs",
+        "description": "Desert community library and cooling resource."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6028,
+          33.0787
+        ]
+      },
+      "properties": {
+        "id": "sd-036",
+        "name": "Julian Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "1850 Highway 78, Julian",
+        "description": "Mountain community library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7664,
+          32.8351
+        ]
+      },
+      "properties": {
+        "id": "sd-037",
+        "name": "Alpine Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "1752 Alpine Blvd, Alpine",
+        "description": "East County library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.272,
+          33.128
+        ]
+      },
+      "properties": {
+        "id": "sd-038",
+        "name": "Carlsbad City Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "1775 Dove Ln, Carlsbad",
+        "description": "North coastal library and information hub."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.161,
+          33.1412
+        ]
+      },
+      "properties": {
+        "id": "sd-039",
+        "name": "San Marcos Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "2 Civic Center Dr, San Marcos",
+        "description": "North County library and civic resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.103,
+          32.67
+        ]
+      },
+      "properties": {
+        "id": "sd-040",
+        "name": "National City Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "1401 National City Blvd, National City",
+        "description": "South Bay library and community resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1133,
+          32.5812
+        ]
+      },
+      "properties": {
+        "id": "sd-041",
+        "name": "Imperial Beach Library",
+        "county": "San Diego",
+        "category": "libraries",
+        "address": "810 Imperial Beach Blvd, Imperial Beach",
+        "description": "Coastal community library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5631,
+          32.792
+        ]
+      },
+      "properties": {
+        "id": "imp-042",
+        "name": "Imperial County Free Library - El Centro",
+        "county": "Imperial",
+        "category": "libraries",
+        "address": "El Centro, CA",
+        "description": "County library / public information resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5631,
+          32.7926
+        ]
+      },
+      "properties": {
+        "id": "imp-043",
+        "name": "El Centro Community Center",
+        "county": "Imperial",
+        "category": "shelter",
+        "address": "375 S 1st St, El Centro",
+        "description": "Community facility; verify official shelter activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4989,
+          32.6789
+        ]
+      },
+      "properties": {
+        "id": "imp-044",
+        "name": "Calexico Library",
+        "county": "Imperial",
+        "category": "libraries",
+        "address": "850 Encinas Ave, Calexico",
+        "description": "Border community library and information point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5303,
+          32.9787
+        ]
+      },
+      "properties": {
+        "id": "imp-045",
+        "name": "Brawley Public Library",
+        "county": "Imperial",
+        "category": "libraries",
+        "address": "400 Main St, Brawley",
+        "description": "North Imperial Valley library resource."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5702,
+          32.792
+        ]
+      },
+      "properties": {
+        "id": "imp-046",
+        "name": "Imperial County Public Health Department",
+        "county": "Imperial",
+        "category": "medical",
+        "address": "935 Broadway, El Centro",
+        "description": "Public health resource; verify emergency instructions."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.568,
+          32.779
+        ]
+      },
+      "properties": {
+        "id": "imp-047",
+        "name": "El Centro Regional Medical Center",
+        "county": "Imperial",
+        "category": "medical",
+        "address": "1415 Ross Ave, El Centro",
+        "description": "Hospital / emergency medical care."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5481,
+          32.9581
+        ]
+      },
+      "properties": {
+        "id": "imp-048",
+        "name": "Pioneers Memorial Healthcare District",
+        "county": "Imperial",
+        "category": "medical",
+        "address": "207 W Legion Rd, Brawley",
+        "description": "Hospital serving northern Imperial County."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5697,
+          32.8047
+        ]
+      },
+      "properties": {
+        "id": "imp-049",
+        "name": "Imperial Valley Food Bank",
+        "county": "Imperial",
+        "category": "food",
+        "address": "486 W Aten Rd, Imperial",
+        "description": "Regional food assistance organization."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5142,
+          33.1256
+        ]
+      },
+      "properties": {
+        "id": "imp-050",
+        "name": "Calipatria Library",
+        "county": "Imperial",
+        "category": "libraries",
+        "address": "Calipatria, CA",
+        "description": "North county library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3803,
+          32.8112
+        ]
+      },
+      "properties": {
+        "id": "imp-051",
+        "name": "Holtville Library",
+        "county": "Imperial",
+        "category": "libraries",
+        "address": "Holtville, CA",
+        "description": "East valley library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5294,
+          32.73
+        ]
+      },
+      "properties": {
+        "id": "imp-052",
+        "name": "Heber Community Center",
+        "county": "Imperial",
+        "category": "shelter",
+        "address": "Heber, CA",
+        "description": "Community facility; verify emergency activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5189,
+          33.2406
+        ]
+      },
+      "properties": {
+        "id": "imp-053",
+        "name": "Niland Community Center",
+        "county": "Imperial",
+        "category": "shelter",
+        "address": "Niland, CA",
+        "description": "Remote community resource point; verify availability."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9561,
+          33.2986
+        ]
+      },
+      "properties": {
+        "id": "imp-054",
+        "name": "Salton City Community Area",
+        "county": "Imperial",
+        "category": "shelter",
+        "address": "Salton City, CA",
+        "description": "Desert community resource area; verify active services."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5682,
+          32.8476
+        ]
+      },
+      "properties": {
+        "id": "imp-055",
+        "name": "Imperial County Fairgrounds",
+        "county": "Imperial",
+        "category": "shelter",
+        "address": "200 E 2nd St, Imperial",
+        "description": "Large grounds; possible staging site when activated."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5785,
+          32.7988
+        ]
+      },
+      "properties": {
+        "id": "imp-056",
+        "name": "Bucklin Park",
+        "county": "Imperial",
+        "category": "parks",
+        "address": "1350 S 8th St, El Centro",
+        "description": "Large city park / respite area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5331,
+          32.9797
+        ]
+      },
+      "properties": {
+        "id": "imp-057",
+        "name": "Eager Park",
+        "county": "Imperial",
+        "category": "parks",
+        "address": "Brawley, CA",
+        "description": "Community park / gathering point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.498,
+          32.678
+        ]
+      },
+      "properties": {
+        "id": "imp-058",
+        "name": "Calexico Community Center",
+        "county": "Imperial",
+        "category": "cooling",
+        "address": "Calexico, CA",
+        "description": "Potential cooling / community facility; verify activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.53,
+          32.978
+        ]
+      },
+      "properties": {
+        "id": "imp-059",
+        "name": "Brawley Senior Center",
+        "county": "Imperial",
+        "category": "cooling",
+        "address": "Brawley, CA",
+        "description": "Potential cooling resource for older adults; verify hours."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5694,
+          32.8475
+        ]
+      },
+      "properties": {
+        "id": "imp-060",
+        "name": "Imperial City Hall / Civic Center",
+        "county": "Imperial",
+        "category": "cooling",
+        "address": "Imperial, CA",
+        "description": "Civic area; check official notices for cooling center activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9944,
+          32.7384
+        ]
+      },
+      "properties": {
+        "id": "imp-061",
+        "name": "Ocotillo Community Park",
+        "county": "Imperial",
+        "category": "parks",
+        "address": "Ocotillo, CA",
+        "description": "Remote community outdoor resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2551,
+          34.0505
+        ]
+      },
+      "properties": {
+        "id": "la-062",
+        "name": "Los Angeles Central Library",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "630 W 5th St, Los Angeles",
+        "description": "Major downtown library and public information hub."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.444,
+          34.0622
+        ]
+      },
+      "properties": {
+        "id": "la-063",
+        "name": "Westwood Branch Library",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "1246 Glendon Ave, Los Angeles",
+        "description": "Westside library and cooling / information point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4488,
+          34.1867
+        ]
+      },
+      "properties": {
+        "id": "la-064",
+        "name": "Van Nuys Branch Library",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "6250 Sylmar Ave, Van Nuys",
+        "description": "San Fernando Valley library resource."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.263,
+          33.7901
+        ]
+      },
+      "properties": {
+        "id": "la-065",
+        "name": "Wilmington Branch Library",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "1300 N Avalon Blvd, Wilmington",
+        "description": "Harbor area library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2111,
+          34.0442
+        ]
+      },
+      "properties": {
+        "id": "la-066",
+        "name": "Boyle Heights Library",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "2200 E 1st St, Los Angeles",
+        "description": "Eastside library and community hub."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3009,
+          34.0532
+        ]
+      },
+      "properties": {
+        "id": "la-067",
+        "name": "Koreatown / Pio Pico Library",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "694 S Oxford Ave, Los Angeles",
+        "description": "Koreatown library and information hub."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2382,
+          34.0635
+        ]
+      },
+      "properties": {
+        "id": "la-068",
+        "name": "Chinatown Branch Library",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "639 N Hill St, Los Angeles",
+        "description": "Multilingual community library resource."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2922,
+          33.7365
+        ]
+      },
+      "properties": {
+        "id": "la-069",
+        "name": "San Pedro Regional Library",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "931 S Gaffey St, San Pedro",
+        "description": "Harbor area library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1937,
+          33.769
+        ]
+      },
+      "properties": {
+        "id": "la-070",
+        "name": "Long Beach Main Library",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "200 W Broadway, Long Beach",
+        "description": "City library and public information hub."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1445,
+          34.1478
+        ]
+      },
+      "properties": {
+        "id": "la-071",
+        "name": "Pasadena Central Library Area",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "Pasadena, CA",
+        "description": "Civic library area; verify temporary status and services."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2556,
+          34.146
+        ]
+      },
+      "properties": {
+        "id": "la-072",
+        "name": "Glendale Central Library",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "222 E Harvard St, Glendale",
+        "description": "Library and cooling / information point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.308,
+          34.1815
+        ]
+      },
+      "properties": {
+        "id": "la-073",
+        "name": "Burbank Central Library",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "110 N Glenoaks Blvd, Burbank",
+        "description": "Library and civic resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.493,
+          34.0184
+        ]
+      },
+      "properties": {
+        "id": "la-074",
+        "name": "Santa Monica Main Library",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "601 Santa Monica Blvd, Santa Monica",
+        "description": "Westside library and public information hub."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3965,
+          34.0154
+        ]
+      },
+      "properties": {
+        "id": "la-075",
+        "name": "Culver City Julian Dixon Library",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "4975 Overland Ave, Culver City",
+        "description": "West LA-area library resource."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1591,
+          34.0338
+        ]
+      },
+      "properties": {
+        "id": "la-076",
+        "name": "East Los Angeles Library",
+        "county": "Los Angeles",
+        "category": "libraries",
+        "address": "4837 E 3rd St, Los Angeles",
+        "description": "East LA county library and community hub."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2053,
+          34.0639
+        ]
+      },
+      "properties": {
+        "id": "la-077",
+        "name": "LA County Emergency Operations Center Area",
+        "county": "Los Angeles",
+        "category": "shelter",
+        "address": "Los Angeles, CA",
+        "description": "Emergency operations area; use official alerts for instructions."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24,
+          34.0739
+        ]
+      },
+      "properties": {
+        "id": "la-078",
+        "name": "Dodger Stadium Area",
+        "county": "Los Angeles",
+        "category": "shelter",
+        "address": "1000 Vin Scully Ave, Los Angeles",
+        "description": "Large public venue area; possible staging when activated."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2693,
+          34.0402
+        ]
+      },
+      "properties": {
+        "id": "la-079",
+        "name": "LA Convention Center",
+        "county": "Los Angeles",
+        "category": "shelter",
+        "address": "1201 S Figueroa St, Los Angeles",
+        "description": "Large facility; verify shelter activation through official sources."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.287,
+          34.0169
+        ]
+      },
+      "properties": {
+        "id": "la-080",
+        "name": "Expo Center / Exposition Park",
+        "county": "Los Angeles",
+        "category": "shelter",
+        "address": "3980 Bill Robertson Ln, Los Angeles",
+        "description": "Large community facility and park area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.361,
+          34.0755
+        ]
+      },
+      "properties": {
+        "id": "la-081",
+        "name": "Pan Pacific Park Recreation Center",
+        "county": "Los Angeles",
+        "category": "shelter",
+        "address": "7600 Beverly Blvd, Los Angeles",
+        "description": "Central LA recreation center; verify activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.416,
+          34.2599
+        ]
+      },
+      "properties": {
+        "id": "la-082",
+        "name": "Ritchie Valens Recreation Center",
+        "county": "Los Angeles",
+        "category": "shelter",
+        "address": "10736 Laurel Canyon Blvd, Pacoima",
+        "description": "Valley recreation center."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.264,
+          33.7833
+        ]
+      },
+      "properties": {
+        "id": "la-083",
+        "name": "Wilmington Recreation Center",
+        "county": "Los Angeles",
+        "category": "shelter",
+        "address": "325 Neptune Ave, Wilmington",
+        "description": "Harbor area recreation center."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2691,
+          33.9989
+        ]
+      },
+      "properties": {
+        "id": "la-084",
+        "name": "South Park Recreation Center",
+        "county": "Los Angeles",
+        "category": "shelter",
+        "address": "345 E 51st St, Los Angeles",
+        "description": "South LA recreation center."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3343,
+          34.0943
+        ]
+      },
+      "properties": {
+        "id": "la-085",
+        "name": "Hollywood Recreation Center",
+        "county": "Los Angeles",
+        "category": "shelter",
+        "address": "1122 Cole Ave, Los Angeles",
+        "description": "Central Hollywood recreation center."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4686,
+          34.1814
+        ]
+      },
+      "properties": {
+        "id": "la-086",
+        "name": "Sepulveda Recreation Center",
+        "county": "Los Angeles",
+        "category": "shelter",
+        "address": "8825 Kester Ave, Panorama City",
+        "description": "Valley recreation center."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.222,
+          34.002
+        ]
+      },
+      "properties": {
+        "id": "la-087",
+        "name": "Los Angeles Regional Food Bank",
+        "county": "Los Angeles",
+        "category": "food",
+        "address": "1734 E 41st St, Los Angeles",
+        "description": "Major regional food assistance organization."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.451,
+          34.023
+        ]
+      },
+      "properties": {
+        "id": "la-088",
+        "name": "Westside Food Bank",
+        "county": "Los Angeles",
+        "category": "food",
+        "address": "Santa Monica, CA",
+        "description": "Westside food assistance organization."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4572,
+          34.2381
+        ]
+      },
+      "properties": {
+        "id": "la-089",
+        "name": "Food Forward Produce Hub",
+        "county": "Los Angeles",
+        "category": "food",
+        "address": "Pacoima, CA",
+        "description": "Food recovery and distribution organization."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1904,
+          33.7828
+        ]
+      },
+      "properties": {
+        "id": "la-090",
+        "name": "Long Beach Rescue Mission",
+        "county": "Los Angeles",
+        "category": "food",
+        "address": "1335 Pacific Ave, Long Beach",
+        "description": "Food and shelter assistance organization."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3271,
+          34.0892
+        ]
+      },
+      "properties": {
+        "id": "la-091",
+        "name": "Project Angel Food",
+        "county": "Los Angeles",
+        "category": "food",
+        "address": "922 Vine St, Los Angeles",
+        "description": "Meal delivery / food assistance organization."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.38,
+          34.0753
+        ]
+      },
+      "properties": {
+        "id": "la-092",
+        "name": "Cedars-Sinai Medical Center",
+        "county": "Los Angeles",
+        "category": "medical",
+        "address": "8700 Beverly Blvd, Los Angeles",
+        "description": "Major hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.208,
+          34.0576
+        ]
+      },
+      "properties": {
+        "id": "la-093",
+        "name": "LAC+USC Medical Center",
+        "county": "Los Angeles",
+        "category": "medical",
+        "address": "2051 Marengo St, Los Angeles",
+        "description": "Major county hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.294,
+          33.8316
+        ]
+      },
+      "properties": {
+        "id": "la-094",
+        "name": "Harbor-UCLA Medical Center",
+        "county": "Los Angeles",
+        "category": "medical",
+        "address": "1000 W Carson St, Torrance",
+        "description": "Major county medical center."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4466,
+          34.3266
+        ]
+      },
+      "properties": {
+        "id": "la-095",
+        "name": "Olive View-UCLA Medical Center",
+        "county": "Los Angeles",
+        "category": "medical",
+        "address": "14445 Olive View Dr, Sylmar",
+        "description": "Major valley medical center."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2428,
+          33.9246
+        ]
+      },
+      "properties": {
+        "id": "la-096",
+        "name": "MLK Community Hospital",
+        "county": "Los Angeles",
+        "category": "medical",
+        "address": "1680 E 120th St, Los Angeles",
+        "description": "South LA hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.478,
+          34.0289
+        ]
+      },
+      "properties": {
+        "id": "la-097",
+        "name": "Providence Saint John’s Health Center",
+        "county": "Los Angeles",
+        "category": "medical",
+        "address": "2121 Santa Monica Blvd, Santa Monica",
+        "description": "Westside hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1529,
+          34.1348
+        ]
+      },
+      "properties": {
+        "id": "la-098",
+        "name": "Huntington Hospital",
+        "county": "Los Angeles",
+        "category": "medical",
+        "address": "100 W California Blvd, Pasadena",
+        "description": "San Gabriel Valley hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2942,
+          34.1366
+        ]
+      },
+      "properties": {
+        "id": "la-099",
+        "name": "Griffith Park",
+        "county": "Los Angeles",
+        "category": "parks",
+        "address": "Los Angeles, CA",
+        "description": "Large park / open space; wildfire risk area, follow closures."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.236,
+          34.0793
+        ]
+      },
+      "properties": {
+        "id": "la-100",
+        "name": "Elysian Park",
+        "county": "Los Angeles",
+        "category": "parks",
+        "address": "Los Angeles, CA",
+        "description": "Large central park / staging area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2787,
+          34.0597
+        ]
+      },
+      "properties": {
+        "id": "la-101",
+        "name": "MacArthur Park",
+        "county": "Los Angeles",
+        "category": "parks",
+        "address": "Los Angeles, CA",
+        "description": "Central LA park and community area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3723,
+          34.0115
+        ]
+      },
+      "properties": {
+        "id": "la-102",
+        "name": "Kenneth Hahn State Recreation Area",
+        "county": "Los Angeles",
+        "category": "parks",
+        "address": "4100 S La Cienega Blvd, Los Angeles",
+        "description": "Large regional park."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0622,
+          34.0328
+        ]
+      },
+      "properties": {
+        "id": "la-103",
+        "name": "Whittier Narrows Recreation Area",
+        "county": "Los Angeles",
+        "category": "parks",
+        "address": "South El Monte, CA",
+        "description": "Large regional park / possible staging area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9465,
+          34.1128
+        ]
+      },
+      "properties": {
+        "id": "la-104",
+        "name": "Santa Fe Dam Recreation Area",
+        "county": "Los Angeles",
+        "category": "parks",
+        "address": "Irwindale, CA",
+        "description": "Large recreation area; flood/weather closures possible."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4359,
+          33.9301
+        ]
+      },
+      "properties": {
+        "id": "la-105",
+        "name": "Dockweiler State Beach",
+        "county": "Los Angeles",
+        "category": "parks",
+        "address": "Playa del Rey, CA",
+        "description": "Coastal open space; tsunami/flood hazard awareness needed."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4488,
+          34.1939
+        ]
+      },
+      "properties": {
+        "id": "la-106",
+        "name": "LA County Cooling Center - San Fernando Valley Area",
+        "county": "Los Angeles",
+        "category": "cooling",
+        "address": "Van Nuys, CA",
+        "description": "Cooling center area; verify activation during heat events."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1617,
+          34.0333
+        ]
+      },
+      "properties": {
+        "id": "la-107",
+        "name": "LA County Cooling Center - East LA Area",
+        "county": "Los Angeles",
+        "category": "cooling",
+        "address": "East Los Angeles, CA",
+        "description": "Cooling resource area; verify official activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.291,
+          33.989
+        ]
+      },
+      "properties": {
+        "id": "la-108",
+        "name": "LA County Cooling Center - South LA Area",
+        "county": "Los Angeles",
+        "category": "cooling",
+        "address": "South Los Angeles, CA",
+        "description": "Cooling resource area; verify official activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1542,
+          34.6868
+        ]
+      },
+      "properties": {
+        "id": "la-109",
+        "name": "LA County Cooling Center - Antelope Valley Area",
+        "county": "Los Angeles",
+        "category": "cooling",
+        "address": "Lancaster, CA",
+        "description": "High-heat cooling resource area; verify official activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1445,
+          34.1478
+        ]
+      },
+      "properties": {
+        "id": "la-110",
+        "name": "LA County Cooling Center - San Gabriel Valley Area",
+        "county": "Los Angeles",
+        "category": "cooling",
+        "address": "Pasadena, CA",
+        "description": "Cooling resource area; verify official activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4157,
+          37.7793
+        ]
+      },
+      "properties": {
+        "id": "sf-111",
+        "name": "San Francisco Main Library",
+        "county": "San Francisco",
+        "category": "libraries",
+        "address": "100 Larkin St, San Francisco",
+        "description": "Major library and public information hub."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3931,
+          37.7753
+        ]
+      },
+      "properties": {
+        "id": "sf-112",
+        "name": "Mission Bay Branch Library",
+        "county": "San Francisco",
+        "category": "libraries",
+        "address": "960 4th St, San Francisco",
+        "description": "Neighborhood library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4071,
+          37.7955
+        ]
+      },
+      "properties": {
+        "id": "sf-113",
+        "name": "Chinatown / Him Mark Lai Branch Library",
+        "county": "San Francisco",
+        "category": "libraries",
+        "address": "1135 Powell St, San Francisco",
+        "description": "Multilingual library and community information hub."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4195,
+          37.7524
+        ]
+      },
+      "properties": {
+        "id": "sf-114",
+        "name": "Mission Branch Library",
+        "county": "San Francisco",
+        "category": "libraries",
+        "address": "300 Bartlett St, San Francisco",
+        "description": "Mission District library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3928,
+          37.7312
+        ]
+      },
+      "properties": {
+        "id": "sf-115",
+        "name": "Bayview / Linda Brooks-Burton Library",
+        "county": "San Francisco",
+        "category": "libraries",
+        "address": "5075 3rd St, San Francisco",
+        "description": "Southeast SF library and community hub."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.482,
+          37.7817
+        ]
+      },
+      "properties": {
+        "id": "sf-116",
+        "name": "Richmond Branch Library",
+        "county": "San Francisco",
+        "category": "libraries",
+        "address": "351 9th Ave, San Francisco",
+        "description": "Westside library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4775,
+          37.7636
+        ]
+      },
+      "properties": {
+        "id": "sf-117",
+        "name": "Sunset Branch Library",
+        "county": "San Francisco",
+        "category": "libraries",
+        "address": "1305 18th Ave, San Francisco",
+        "description": "Sunset District library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4183,
+          37.775
+        ]
+      },
+      "properties": {
+        "id": "sf-118",
+        "name": "San Francisco Emergency Operations Center Area",
+        "county": "San Francisco",
+        "category": "shelter",
+        "address": "San Francisco Civic Center area",
+        "description": "Emergency coordination area; use official alerts for instructions."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401,
+          37.784
+        ]
+      },
+      "properties": {
+        "id": "sf-119",
+        "name": "Moscone Center",
+        "county": "San Francisco",
+        "category": "shelter",
+        "address": "747 Howard St, San Francisco",
+        "description": "Large convention facility; verify emergency activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4175,
+          37.7782
+        ]
+      },
+      "properties": {
+        "id": "sf-120",
+        "name": "Bill Graham Civic Auditorium",
+        "county": "San Francisco",
+        "category": "shelter",
+        "address": "99 Grove St, San Francisco",
+        "description": "Large civic venue; verify shelter or staging activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4375,
+          37.7848
+        ]
+      },
+      "properties": {
+        "id": "sf-121",
+        "name": "Hamilton Recreation Center",
+        "county": "San Francisco",
+        "category": "shelter",
+        "address": "1900 Geary Blvd, San Francisco",
+        "description": "Community recreation facility."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4097,
+          37.7948
+        ]
+      },
+      "properties": {
+        "id": "sf-122",
+        "name": "Betty Ann Ong Recreation Center",
+        "county": "San Francisco",
+        "category": "shelter",
+        "address": "1199 Mason St, San Francisco",
+        "description": "Chinatown recreation and community facility."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3937,
+          37.7425
+        ]
+      },
+      "properties": {
+        "id": "sf-123",
+        "name": "SF-Marin Food Bank",
+        "county": "San Francisco",
+        "category": "food",
+        "address": "900 Pennsylvania Ave, San Francisco",
+        "description": "Regional food assistance organization."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4112,
+          37.785
+        ]
+      },
+      "properties": {
+        "id": "sf-124",
+        "name": "Glide Memorial / Community Meals Area",
+        "county": "San Francisco",
+        "category": "food",
+        "address": "330 Ellis St, San Francisco",
+        "description": "Community meals and social services area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4115,
+          37.7827
+        ]
+      },
+      "properties": {
+        "id": "sf-125",
+        "name": "St. Anthony’s Dining Room",
+        "county": "San Francisco",
+        "category": "food",
+        "address": "121 Golden Gate Ave, San Francisco",
+        "description": "Meal service organization; verify hours."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4586,
+          37.7631
+        ]
+      },
+      "properties": {
+        "id": "sf-126",
+        "name": "UCSF Medical Center Parnassus",
+        "county": "San Francisco",
+        "category": "medical",
+        "address": "505 Parnassus Ave, San Francisco",
+        "description": "Major hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4055,
+          37.7557
+        ]
+      },
+      "properties": {
+        "id": "sf-127",
+        "name": "Zuckerberg San Francisco General Hospital",
+        "county": "San Francisco",
+        "category": "medical",
+        "address": "1001 Potrero Ave, San Francisco",
+        "description": "Major public hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4427,
+          37.7827
+        ]
+      },
+      "properties": {
+        "id": "sf-128",
+        "name": "Kaiser Permanente San Francisco",
+        "county": "San Francisco",
+        "category": "medical",
+        "address": "2425 Geary Blvd, San Francisco",
+        "description": "Hospital / medical center."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4862,
+          37.7694
+        ]
+      },
+      "properties": {
+        "id": "sf-129",
+        "name": "Golden Gate Park",
+        "county": "San Francisco",
+        "category": "parks",
+        "address": "San Francisco, CA",
+        "description": "Large park; follow wind, smoke, and closure guidance."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4269,
+          37.7596
+        ]
+      },
+      "properties": {
+        "id": "sf-130",
+        "name": "Dolores Park",
+        "county": "San Francisco",
+        "category": "parks",
+        "address": "Dolores St & 19th St, San Francisco",
+        "description": "Open space / community gathering area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4173,
+          37.7795
+        ]
+      },
+      "properties": {
+        "id": "sf-131",
+        "name": "Civic Center Plaza",
+        "county": "San Francisco",
+        "category": "parks",
+        "address": "San Francisco, CA",
+        "description": "Central civic open space; follow official instructions."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.458,
+          37.8009
+        ]
+      },
+      "properties": {
+        "id": "sf-132",
+        "name": "Presidio Main Post",
+        "county": "San Francisco",
+        "category": "parks",
+        "address": "Presidio, San Francisco",
+        "description": "Large open space / federal park area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4157,
+          37.7793
+        ]
+      },
+      "properties": {
+        "id": "sf-133",
+        "name": "SF Cooling Center - Civic Center Area",
+        "county": "San Francisco",
+        "category": "cooling",
+        "address": "Civic Center, San Francisco",
+        "description": "Cooling resource area; verify activation during heat events."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3928,
+          37.7312
+        ]
+      },
+      "properties": {
+        "id": "sf-134",
+        "name": "SF Cooling Center - Bayview Area",
+        "county": "San Francisco",
+        "category": "cooling",
+        "address": "Bayview, San Francisco",
+        "description": "Cooling resource area; verify activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4775,
+          37.7636
+        ]
+      },
+      "properties": {
+        "id": "sf-135",
+        "name": "SF Cooling Center - Sunset Area",
+        "county": "San Francisco",
+        "category": "cooling",
+        "address": "Sunset District, San Francisco",
+        "description": "Cooling resource area; verify activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.263,
+          37.8014
+        ]
+      },
+      "properties": {
+        "id": "ba-136",
+        "name": "Oakland Main Library",
+        "county": "Bay Area",
+        "category": "libraries",
+        "address": "125 14th St, Oakland",
+        "description": "East Bay library and public information hub."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2697,
+          37.87
+        ]
+      },
+      "properties": {
+        "id": "ba-137",
+        "name": "Berkeley Central Library",
+        "county": "Bay Area",
+        "category": "libraries",
+        "address": "2090 Kittredge St, Berkeley",
+        "description": "East Bay library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3447,
+          37.9358
+        ]
+      },
+      "properties": {
+        "id": "ba-138",
+        "name": "Richmond Public Library",
+        "county": "Bay Area",
+        "category": "libraries",
+        "address": "325 Civic Center Plaza, Richmond",
+        "description": "West Contra Costa library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0855,
+          37.6715
+        ]
+      },
+      "properties": {
+        "id": "ba-139",
+        "name": "Hayward Public Library",
+        "county": "Bay Area",
+        "category": "libraries",
+        "address": "888 C St, Hayward",
+        "description": "East Bay library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9886,
+          37.5485
+        ]
+      },
+      "properties": {
+        "id": "ba-140",
+        "name": "Fremont Main Library",
+        "county": "Bay Area",
+        "category": "libraries",
+        "address": "2400 Stevenson Blvd, Fremont",
+        "description": "South East Bay library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8847,
+          37.3354
+        ]
+      },
+      "properties": {
+        "id": "ba-141",
+        "name": "San Jose Dr. Martin Luther King Jr. Library",
+        "county": "Bay Area",
+        "category": "libraries",
+        "address": "150 E San Fernando St, San Jose",
+        "description": "Major South Bay library and information hub."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9737,
+          37.3413
+        ]
+      },
+      "properties": {
+        "id": "ba-142",
+        "name": "Santa Clara Central Park Library",
+        "county": "Bay Area",
+        "category": "libraries",
+        "address": "2635 Homestead Rd, Santa Clara",
+        "description": "South Bay library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0385,
+          37.3715
+        ]
+      },
+      "properties": {
+        "id": "ba-143",
+        "name": "Sunnyvale Public Library",
+        "county": "Bay Area",
+        "category": "libraries",
+        "address": "665 W Olive Ave, Sunnyvale",
+        "description": "South Bay library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2325,
+          37.4866
+        ]
+      },
+      "properties": {
+        "id": "ba-144",
+        "name": "Redwood City Downtown Library",
+        "county": "Bay Area",
+        "category": "libraries",
+        "address": "1044 Middlefield Rd, Redwood City",
+        "description": "Peninsula library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3255,
+          37.563
+        ]
+      },
+      "properties": {
+        "id": "ba-145",
+        "name": "San Mateo Main Library",
+        "county": "Bay Area",
+        "category": "libraries",
+        "address": "55 W 3rd Ave, San Mateo",
+        "description": "Peninsula library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.471,
+          37.6712
+        ]
+      },
+      "properties": {
+        "id": "ba-146",
+        "name": "Daly City Serramonte Main Library",
+        "county": "Bay Area",
+        "category": "libraries",
+        "address": "40 Wembley Dr, Daly City",
+        "description": "North Peninsula library resource point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1135,
+          37.4211
+        ]
+      },
+      "properties": {
+        "id": "ba-147",
+        "name": "Palo Alto Mitchell Park Library",
+        "county": "Bay Area",
+        "category": "libraries",
+        "address": "3700 Middlefield Rd, Palo Alto",
+        "description": "Peninsula library and community center."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2735,
+          37.8024
+        ]
+      },
+      "properties": {
+        "id": "ba-148",
+        "name": "Oakland Convention Center Area",
+        "county": "Bay Area",
+        "category": "shelter",
+        "address": "10th St, Oakland",
+        "description": "Large downtown facility area; verify activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2732,
+          37.8724
+        ]
+      },
+      "properties": {
+        "id": "ba-149",
+        "name": "Berkeley Adult School / Community Area",
+        "county": "Bay Area",
+        "category": "shelter",
+        "address": "Berkeley, CA",
+        "description": "Community facility area; verify shelter status."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8896,
+          37.3293
+        ]
+      },
+      "properties": {
+        "id": "ba-150",
+        "name": "San Jose Convention Center",
+        "county": "Bay Area",
+        "category": "shelter",
+        "address": "150 W San Carlos St, San Jose",
+        "description": "Large convention facility; verify activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9756,
+          37.4047
+        ]
+      },
+      "properties": {
+        "id": "ba-151",
+        "name": "Santa Clara Convention Center",
+        "county": "Bay Area",
+        "category": "shelter",
+        "address": "5001 Great America Pkwy, Santa Clara",
+        "description": "Large facility; verify emergency activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3037,
+          37.5466
+        ]
+      },
+      "properties": {
+        "id": "ba-152",
+        "name": "San Mateo County Event Center",
+        "county": "Bay Area",
+        "category": "shelter",
+        "address": "1346 Saratoga Dr, San Mateo",
+        "description": "Large event center; verify shelter/staging activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8863,
+          37.6617
+        ]
+      },
+      "properties": {
+        "id": "ba-153",
+        "name": "Alameda County Fairgrounds",
+        "county": "Bay Area",
+        "category": "shelter",
+        "address": "4501 Pleasanton Ave, Pleasanton",
+        "description": "Large fairgrounds; possible staging when activated."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.932,
+          37.3861
+        ]
+      },
+      "properties": {
+        "id": "ba-154",
+        "name": "Second Harvest of Silicon Valley",
+        "county": "Bay Area",
+        "category": "food",
+        "address": "San Jose, CA",
+        "description": "Regional food assistance organization."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2071,
+          37.7757
+        ]
+      },
+      "properties": {
+        "id": "ba-155",
+        "name": "Alameda County Community Food Bank",
+        "county": "Bay Area",
+        "category": "food",
+        "address": "7900 Edgewater Dr, Oakland",
+        "description": "East Bay food assistance organization."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0363,
+          38.0189
+        ]
+      },
+      "properties": {
+        "id": "ba-156",
+        "name": "Food Bank of Contra Costa and Solano",
+        "county": "Bay Area",
+        "category": "food",
+        "address": "Concord, CA",
+        "description": "Regional food assistance organization."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3228,
+          37.5716
+        ]
+      },
+      "properties": {
+        "id": "ba-157",
+        "name": "Samaritan House San Mateo",
+        "county": "Bay Area",
+        "category": "food",
+        "address": "4031 Pacific Blvd, San Mateo",
+        "description": "Food and social services organization."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8945,
+          37.3244
+        ]
+      },
+      "properties": {
+        "id": "ba-158",
+        "name": "Sacred Heart Community Service",
+        "county": "Bay Area",
+        "category": "food",
+        "address": "1381 S 1st St, San Jose",
+        "description": "Food and community assistance organization."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2311,
+          37.7993
+        ]
+      },
+      "properties": {
+        "id": "ba-159",
+        "name": "Highland Hospital",
+        "county": "Bay Area",
+        "category": "medical",
+        "address": "1411 E 31st St, Oakland",
+        "description": "Major East Bay hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2679,
+          37.8371
+        ]
+      },
+      "properties": {
+        "id": "ba-160",
+        "name": "UCSF Benioff Children’s Hospital Oakland",
+        "county": "Bay Area",
+        "category": "medical",
+        "address": "747 52nd St, Oakland",
+        "description": "Children’s hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.175,
+          37.4352
+        ]
+      },
+      "properties": {
+        "id": "ba-161",
+        "name": "Stanford Hospital",
+        "county": "Bay Area",
+        "category": "medical",
+        "address": "300 Pasteur Dr, Stanford",
+        "description": "Major Peninsula hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9334,
+          37.3137
+        ]
+      },
+      "properties": {
+        "id": "ba-162",
+        "name": "Santa Clara Valley Medical Center",
+        "county": "Bay Area",
+        "category": "medical",
+        "address": "751 S Bascom Ave, San Jose",
+        "description": "Major South Bay public hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2577,
+          37.8242
+        ]
+      },
+      "properties": {
+        "id": "ba-163",
+        "name": "Kaiser Permanente Oakland Medical Center",
+        "county": "Bay Area",
+        "category": "medical",
+        "address": "3600 Broadway, Oakland",
+        "description": "Hospital / medical center."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0392,
+          37.912
+        ]
+      },
+      "properties": {
+        "id": "ba-164",
+        "name": "John Muir Medical Center Walnut Creek",
+        "county": "Bay Area",
+        "category": "medical",
+        "address": "1601 Ygnacio Valley Rd, Walnut Creek",
+        "description": "East Bay hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9801,
+          37.5585
+        ]
+      },
+      "properties": {
+        "id": "ba-165",
+        "name": "Washington Hospital Fremont",
+        "county": "Bay Area",
+        "category": "medical",
+        "address": "2000 Mowry Ave, Fremont",
+        "description": "South East Bay hospital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2585,
+          37.8044
+        ]
+      },
+      "properties": {
+        "id": "ba-166",
+        "name": "Lake Merritt",
+        "county": "Bay Area",
+        "category": "parks",
+        "address": "Oakland, CA",
+        "description": "Large urban open space / community gathering area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2444,
+          37.8952
+        ]
+      },
+      "properties": {
+        "id": "ba-167",
+        "name": "Tilden Regional Park",
+        "county": "Bay Area",
+        "category": "parks",
+        "address": "Berkeley, CA",
+        "description": "Large regional park; wildfire/weather closures possible."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3224,
+          37.5906
+        ]
+      },
+      "properties": {
+        "id": "ba-168",
+        "name": "Coyote Point Recreation Area",
+        "county": "Bay Area",
+        "category": "parks",
+        "address": "San Mateo, CA",
+        "description": "Peninsula park / open space."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.973,
+          37.2419
+        ]
+      },
+      "properties": {
+        "id": "ba-169",
+        "name": "Vasona Lake County Park",
+        "county": "Bay Area",
+        "category": "parks",
+        "address": "Los Gatos, CA",
+        "description": "South Bay park / open space."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0868,
+          37.4323
+        ]
+      },
+      "properties": {
+        "id": "ba-170",
+        "name": "Shoreline Lake / Mountain View",
+        "county": "Bay Area",
+        "category": "parks",
+        "address": "Mountain View, CA",
+        "description": "Bayfront park; flood/air quality awareness."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.81,
+          37.3957
+        ]
+      },
+      "properties": {
+        "id": "ba-171",
+        "name": "Alum Rock Park",
+        "county": "Bay Area",
+        "category": "parks",
+        "address": "San Jose, CA",
+        "description": "Foothill park; wildfire/weather closures possible."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2712,
+          37.8044
+        ]
+      },
+      "properties": {
+        "id": "ba-172",
+        "name": "Bay Area Cooling Center - Oakland Civic Area",
+        "county": "Bay Area",
+        "category": "cooling",
+        "address": "Oakland, CA",
+        "description": "Cooling resource area; verify activation during heat events."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8863,
+          37.3382
+        ]
+      },
+      "properties": {
+        "id": "ba-173",
+        "name": "Bay Area Cooling Center - San Jose Civic Area",
+        "county": "Bay Area",
+        "category": "cooling",
+        "address": "San Jose, CA",
+        "description": "Cooling resource area; verify activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0311,
+          37.9779
+        ]
+      },
+      "properties": {
+        "id": "ba-174",
+        "name": "Bay Area Cooling Center - Concord Area",
+        "county": "Bay Area",
+        "category": "cooling",
+        "address": "Concord, CA",
+        "description": "Hot inland East Bay cooling resource area; verify activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0808,
+          37.6688
+        ]
+      },
+      "properties": {
+        "id": "ba-175",
+        "name": "Bay Area Cooling Center - Hayward Area",
+        "county": "Bay Area",
+        "category": "cooling",
+        "address": "Hayward, CA",
+        "description": "Cooling resource area; verify activation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.219,
+          37.789
+        ]
+      },
+      "properties": {
+        "id": "ba-176",
+        "name": "Bay Area Sandbag Site - Oakland Public Works Area",
+        "county": "Bay Area",
+        "category": "sandbags",
+        "address": "Oakland, CA",
+        "description": "Sandbag resource area; verify pickup rules and availability."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8863,
+          37.3382
+        ]
+      },
+      "properties": {
+        "id": "ba-177",
+        "name": "Bay Area Sandbag Site - San Jose Public Works Area",
+        "county": "Bay Area",
+        "category": "sandbags",
+        "address": "San Jose, CA",
+        "description": "Sandbag resource area; verify before travel."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4702,
+          37.6879
+        ]
+      },
+      "properties": {
+        "id": "ba-178",
+        "name": "Bay Area Sandbag Site - Daly City Area",
+        "county": "Bay Area",
+        "category": "sandbags",
+        "address": "Daly City, CA",
+        "description": "Storm prep resource area; verify availability."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9886,
+          37.5485
+        ]
+      },
+      "properties": {
+        "id": "ba-179",
+        "name": "Bay Area Sandbag Site - Fremont Area",
+        "county": "Bay Area",
+        "category": "sandbags",
+        "address": "Fremont, CA",
+        "description": "Storm prep resource area; verify availability."
+      }
+    }
+  ]
+}
